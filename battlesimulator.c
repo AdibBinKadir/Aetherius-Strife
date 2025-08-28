@@ -509,5 +509,3 @@ void login_user(char player_name[MAX_NAME]) {
     fclose(file);
     printf("Welcome back, %s!\n", player_name);
 }
-/*1. FIle handling to substitute a database with a user login system with wins recorded
-2. Code simply doesn't run*/
